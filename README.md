@@ -13,3 +13,4 @@ A simple video editing software written in C++.
 - Frame accurate
 - Thumbnail generation
 - More advanced editing
+- Encode video to different resolutions
