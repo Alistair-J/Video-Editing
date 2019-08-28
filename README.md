@@ -2,7 +2,7 @@
 A simple video editing software written in C++.
 
 ## Objectives:
-- Simple UI (Potentially using ImGUI)
+- Simple UI (Currently using GTK+)
 - Create clips from a video
 - Allow for sequencing of clips
 - Add audio tracks or seperate videos into video timeline
